@@ -1,1 +1,1 @@
-# Questa repositori è solo una prova 
+# Questa repository è solo una prova 
